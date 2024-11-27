@@ -1,8 +1,8 @@
 # 👨‍💻 Zeyad Saadawy – Software Engineer  
 
 📍 **Madinty, Cairo, Egypt**  
-📧 [zeyadhesham53@gmail.com](mailto:zeyadhesham53@gmail.com)  
-🔗 [LinkedIn: zeyad-hesham-174941242](https://www.linkedin.com/in/zeyad-hesham-174941242)  
+📧 [Email](mailto:zeyadhesham53@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/zeyad-hesham-174941242)  
 
 ---
 
