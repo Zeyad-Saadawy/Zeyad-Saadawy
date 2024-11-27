@@ -2,7 +2,6 @@
 
 📍 **Madinty, Cairo, Egypt**  
 📧 [zeyadhesham53@gmail.com](mailto:zeyadhesham53@gmail.com)  
-🔗 [GitHub: Zeyad-Saadawy](https://github.com/Zeyad-Saadawy)  
 🔗 [LinkedIn: zeyad-hesham-174941242](https://www.linkedin.com/in/zeyad-hesham-174941242)  
 
 ---
