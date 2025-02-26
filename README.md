@@ -19,10 +19,13 @@
 
 
 ## 🛠️ Skills  
-
-- **Programming Languages:** Java, Python, C#, Go, JavaScript, TypeScript, SQL, Bash  
-- **Technologies:** RESTful APIs, Pandas, React, Node.js, MongoDB, Docker, OpenCV, PyQT5, Kubernetes, Ansible  
-- **Languages:** Arabic (Fluent), English (Fluent), German (A2)
+- **Programming Languages:** Java, Python, C#, Go, JavaScript, TypeScript, SQL, Bash
+- **Web Development & APIs:** Spring Boot, React, Node.js, MongoDB (NoSQL), JSON, PostgreSQL, RESTful APIs
+- **Data Science & Machine Learning:** Pandas, NumPy, OpenCV, Jupyter, Data Visualization, YOLOv8, Object
+Detection, Behavior Analysis
+- **DevOps & Cloud:** Oracle Cloud Infrastructure (OCI), Docker, Kubernetes, Linux, SSH, Nginx, Ansible, Git
+- **Other Technologies:** MS Dynamics CRM, Java Swing, MySQL, PyQT5
+- **Spoken Languages:** Arabic (Fluent), English (Fluent), German (A2)
 
 ---
 
