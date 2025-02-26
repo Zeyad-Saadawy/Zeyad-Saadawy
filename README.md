@@ -29,7 +29,7 @@ Detection, Behavior Analysis
 
 ---
 ## 🏅 Certifications
- Oracle Cloud Infrastructure Certified Foundations Associate
+ Oracle Cloud Infrastructure 2024 Certified Foundations Associate
 
 ---
 ## 🏆 Extracurricular Activities  
