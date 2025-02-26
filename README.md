@@ -28,8 +28,10 @@ Detection, Behavior Analysis
 - **Spoken Languages:** Arabic (Fluent), English (Fluent), German (A2)
 
 ---
+## 🏅 Certifications
+ Oracle Cloud Infrastructure Certified Foundations Associate
 
-
+---
 ## 🏆 Extracurricular Activities  
 
 - **Tour Organizer** | *Paradise Egypt Travel Agency* | *2024 – Present*  
